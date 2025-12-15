@@ -1,0 +1,8 @@
+# Desktop app
+flet>=0.28.0
+
+# PDF generation
+reportlab>=4.0.0
+
+# Database (included in Python stdlib)
+# sqlite3

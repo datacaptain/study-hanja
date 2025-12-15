@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Build
+build/
+dist/
+*.spec
+
+# Database
+*.sqlite3
+
+# Reflex (legacy)
+.states
+.web
+assets/external/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
