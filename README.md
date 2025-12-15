@@ -80,3 +80,9 @@ python build.py
 ## 급수 체계
 
 8급 → 7급Ⅱ → 7급 → 6급Ⅱ → 6급 → 5급Ⅱ → 5급 → 4급Ⅱ → 4급 → 3급Ⅱ → 3급 → 2급 → 1급 → 특급Ⅱ → 특급
+
+<img width="993" height="673" alt="스크린샷 2025-12-15 오전 9 42 23" src="https://github.com/user-attachments/assets/c1741bd3-b41a-4a21-ab1d-8253aa3c513b" />
+
+<img width="991" height="685" alt="스크린샷 2025-12-15 오전 9 42 12" src="https://github.com/user-attachments/assets/00d229c2-fb8d-4dae-bff1-e413c0f3c137" />
+
+<img width="994" height="689" alt="스크린샷 2025-12-15 오전 9 42 03" src="https://github.com/user-attachments/assets/12ba4b69-2b0d-4912-8539-fe28d7226654" />
